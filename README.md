@@ -18,7 +18,7 @@ This project provides a way to monitor product prices on Amazon and receive noti
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/amazon-web-scraper-notifier.git
+    git clone https://github.com/tanvirtanmoy/amazon-web-scraper-notifier.git
     cd amazon-web-scraper-notifier
     ```
 
